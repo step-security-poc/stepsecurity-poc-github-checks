@@ -2,6 +2,7 @@
   "name": "packge-demo",
   "version": "1.0.0",
   "dependencies": {
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "ansi-regex": "^6.2.1"
   }
 }
